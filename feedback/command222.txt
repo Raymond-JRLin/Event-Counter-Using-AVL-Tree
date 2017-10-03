@@ -1,0 +1,11 @@
+count 7996          
+increase 7996 10    
+reduce 7996 2       
+next 7996           
+next 8000           
+previous 7996      
+previous 7992       
+inrange 7991 8002   
+reduce 7996 16      
+increase 7996 20    
+count 8000          

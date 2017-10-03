@@ -1,0 +1,2 @@
+When romeve a node, need to do a rotation, but forgot to tranport "count" value while only transfer "key" value.
+Detail: on removeFoundNode method, line 196.
